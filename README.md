@@ -1,1 +1,2 @@
 # bioinfo
+Bioinformatics course
